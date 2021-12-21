@@ -1,5 +1,5 @@
 # Polatis_OST_Controller
-A Controller Demo of Polatis OST
+A Demo of Polatis OST Controller
 
 适配Polatis,N-OST-24x24-LA1-DMHNS
 
